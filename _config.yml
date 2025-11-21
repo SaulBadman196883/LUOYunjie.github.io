@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # Currently available options are "default", "air"
-title                    : "LUO Yunjie / Site Title"
+title                    : "LUO Yunjie 罗云杰/ Site Title"
 title_separator          : "-"
 name                     : &name "LUO Yunjie"
 description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -24,7 +24,7 @@ repository               : "SaulBadman196883/LUOYunjie.github.io"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "LUO Yunjie"
+  name             : "LUO Yunjie 罗云杰"
   pronouns         : # example: "she/her"  
   bio              : "A student of Ecole Polytechnique"
   location         : "Palaiseau France"
