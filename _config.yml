@@ -134,7 +134,6 @@ yandex_site_verification :
 
 
 # Social Sharing
-<!--
 twitter:
   username               : &twitter
 facebook:
@@ -149,7 +148,6 @@ social:
   type                   : # Person or Organization (defaults to Person)
   name                   : # If the user or organization name differs from the site's name
   links: # An array of links to social media profiles
--->
 
 # Analytics
 analytics:
@@ -244,7 +242,7 @@ defaults:
       author_profile: true
       read_time: true
       comments: true
-      share: false
+      share: true
       related: true
   # _pages
   - scope:
@@ -260,7 +258,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _publications
   - scope:
@@ -269,7 +267,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comments: true
   # _portfolio
   - scope:
@@ -278,7 +276,7 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false
+      share: true
       comment: true
   # _talks
   - scope:
@@ -287,7 +285,7 @@ defaults:
     values:
       layout: talk
       author_profile: true
-      share: false
+      share: true
 
 
 # Sass/SCSS
