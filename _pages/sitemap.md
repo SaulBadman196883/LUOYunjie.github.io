@@ -11,7 +11,9 @@ A list of all the posts and pages found on the site.
 
 <h2>Pages</h2>
 {% for post in site.pages %}
-  {% include archive-single.html %}
+  {% unless post.url == "/talkmap.html" %}  <!-- 新增过滤条件 -->
+    {% include archive-single.html %}
+  {% endunless %}
 {% endfor %}
 
 <h2>Posts</h2>
