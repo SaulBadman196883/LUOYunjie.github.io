@@ -11,7 +11,7 @@ redirect_from:
 
 Education
 ======
-#* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
+<!--* Ph.D in Version Control Theory, GitHub University, 2018 (expected)-->
 * Engineering Program (Cycle ingénieur polytechnicien), Ecole Polytechnique, 2024.09-Present
 * B.S. in mathmatics, University of Science and Technology of China, 2021.09-2024.06
 
